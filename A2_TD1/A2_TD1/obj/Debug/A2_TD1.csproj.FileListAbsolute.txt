@@ -1,0 +1,6 @@
+c:\users\axel\documents\visual studio 2015\Projects\A2_TD1\A2_TD1\bin\Debug\A2_TD1.exe.config
+C:\Users\Axel\documents\visual studio 2015\Projects\A2_TD1\A2_TD1\obj\Debug\A2_TD1.csprojResolveAssemblyReference.cache
+C:\Users\Axel\documents\visual studio 2015\Projects\A2_TD1\A2_TD1\bin\Debug\A2_TD1.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\A2_TD1\A2_TD1\bin\Debug\A2_TD1.pdb
+C:\Users\Axel\documents\visual studio 2015\Projects\A2_TD1\A2_TD1\obj\Debug\A2_TD1.exe
+C:\Users\Axel\documents\visual studio 2015\Projects\A2_TD1\A2_TD1\obj\Debug\A2_TD1.pdb
